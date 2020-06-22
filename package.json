@@ -13,9 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "mocha": "^8.0.1",
     "nodemon": "^2.0.4",
+    "poker-hands": "^1.0.2",
+    "poker-ranking": "^1.1.3",
     "request": "^2.88.2"
   }
 }
